@@ -28,3 +28,8 @@ Overview well control:
 
 Closeup of well control display when showing level at "Well@Off":
 ![alt text](https://github.com/reedb/CFSC_Well/blob/master/control_display_welloff.jpg)
+
+## Pump Control Details (pump_control.ino)
+START_HEIGHT_PERCENT 90     // Pump starts when tank level drops to this value
+STOP_HEIGHT_PERCENT  100    // Pump stops when tank level rises to this value
+ALARM_HEIGHT_PERCENT 80     // Pump stops alarm sounds when tank level drops to this value
