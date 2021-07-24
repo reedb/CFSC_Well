@@ -22,6 +22,10 @@ Historical Well Bore Water Level Data (Well@Off): <br />
 05-05-2019 : 36.12' <br />
 05-24-2019 : 35.06' <br />
 05-26-2019 : 35.06' <br />
+06-02-2019 : 33.30' <br />
+
+
+
 
 Overview well control:
 ![alt text](https://github.com/reedb/CFSC_Well/blob/master/control_overview.jpg)
